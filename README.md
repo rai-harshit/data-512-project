@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 The project folder has the following structure:
 
-- **data**: (accessible at )Contains the intermediate and final response files, including:
+- **data**: (accessible at <https://drive.google.com/drive/folders/1BgIZlRqGEbBEj8xnLZHUgkclCsyoTdzk?usp=sharing>) Contains the intermediate and final response files, including:
   - `aqi_by_year.json`: JSON file containing AQI data organized by year.
   - `yearly_smoke_impact.json`: JSON file containing data about yearly smoke impact collected from AQI.
   - `grand_fork_wildfire.json`: JSON file containing wildfire data for Grand Fork County.
