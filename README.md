@@ -101,7 +101,7 @@ The project folder has the following structure:
   - `normalized_smoke_estimate.json`: JSON file with normalized smoke estimate data.
 
 - **wildfire**: Contains external libraries and custom modules.
-- **Notebooks**: Contains the main project file, 'wildfire_analysis.ipynb'.
+- **Notebooks**: Contains the notebooks used in the research, 'wildfire_analysis.ipynb' and 'final_analysis.ipynb'.
 - **Report**: Contains the final report of the research.
 - **Images**: Contains all the visuzalizations generated as part of the research work.
 
